@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor **Front-end** apaixonado por criar interfaces modernas, funcionais e visualmente atraentes. Adoro transformar ideias em projetos reais!
+Sou um desenvolvedor **Full-Stack** apaixonado por criar interfaces modernas, funcionais e visualmente atraentes. Adoro transformar ideias em projetos reais!
 
 - 🌍 Baseado no **Brasil**
 - 💻 Trabalhando com **HTML, CSS, JavaScript e TypeScript**
